@@ -1,0 +1,29 @@
+.App{
+    text-align: center;
+    padding: 100px;;
+}
+.div{
+    border: solid 3px black;
+    border-radius: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: antiquewhite;
+}
+.bb{
+    background-color: brown;
+    border-radius: 5px 0 0 5px;
+}
+.bbb{
+    background-color: green;
+    border-radius: 0 5px 5px 0;
+}
+input{
+    background-color: aquamarine;
+    border-radius:5px 0 0 5px ;
+    text-align: center;
+}
+.add{
+    background-color: blue;
+    color: aliceblue;
+    border-radius:0 5px 5px 0 ;
+}
